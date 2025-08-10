@@ -1,0 +1,15 @@
+# Root ignores
+.DS_Store
+*.log
+node_modules
+dist
+build
+.env
+.vscode
+*.local
+.env
+**/.env
+node_modules/
+dist/
+build/
+.DS_Store
