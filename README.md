@@ -96,6 +96,13 @@ The client assumes API URL http://localhost:4000 by default. You can override vi
 
 ---
 
+## Known Issues
+- Trending uses mock data (no live market feed).
+- Allocation logic is simplified for an educational MVP.
+- Minimal automated tests in this version.
+
+---
+
 ## Commit History
 This project was built with incremental, meaningful commits to reflect a real-world workflow.  
 View commit history: https://github.com/Subhanshrestha/investmate-mvp/commits/main
