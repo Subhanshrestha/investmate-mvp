@@ -9,7 +9,7 @@ This MVP focuses on speed, privacy, and clarity, making investing approachable f
 
 ## Demo
 - Video walkthrough: https://drive.google.com/file/d/1UkXYIrWO0kUGq2X98bcb1wBcw50JBb4U/view
-- Screenshots: Home/Quiz, Results/Pie, Trending/Bar, Saved Plans
+- Screenshots
 
 ---
 
@@ -104,8 +104,7 @@ The client assumes API URL http://localhost:4000 by default. You can override vi
 ---
 
 ## Commit History
-This project was built with incremental, meaningful commits to reflect a real-world workflow.  
-View commit history: https://github.com/Subhanshrestha/investmate-mvp/commits/main
+commit history: https://github.com/Subhanshrestha/investmate-mvp/commits/main
 
 ---
 
