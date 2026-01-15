@@ -13,7 +13,7 @@ This MVP focuses on speed, privacy, and clarity, making investing approachable f
 
 ---
 
-## Tech Stack
+## Tech Stack used
 - Frontend: React + Vite, Tailwind CSS, Chart.js (react-chartjs-2)
 - Backend: Node.js + Express, MongoDB Atlas, Mongoose
 - State management: React Hooks (useState, useEffect)
