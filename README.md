@@ -8,7 +8,7 @@ This MVP focuses on speed, privacy, and clarity, making investing approachable f
 ---
 
 ## Demo
-- Video walkthrough: https://drive.google.com/file/d/1UkXYIrWO0kUGq2X98bcb1wBcw50JBb4U/view
+- App walkthrough: https://drive.google.com/file/d/1UkXYIrWO0kUGq2X98bcb1wBcw50JBb4U/view
 
 ---
 
