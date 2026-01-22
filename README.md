@@ -5,7 +5,7 @@ By answering a few simple questions, users receive a tailored portfolio allocati
 
 This MVP focuses on speed, privacy, and clarity, making investing approachable for everyone.
 
----
+----
 
 ## Demo
 - App walkthrough: https://drive.google.com/file/d/1UkXYIrWO0kUGq2X98bcb1wBcw50JBb4U/view
